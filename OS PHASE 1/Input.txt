@@ -10,5 +10,5 @@ $END
 $AMJ000200030001
 GD60PD60H
 $DTA
-MY Name is Ashu
+MY Name is Raj
 $END
